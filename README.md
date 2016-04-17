@@ -11,7 +11,7 @@ The home of my nodejs poc projects
 
   - After the start command, an user REST service with a "in memory database" can be found at the port 3000:
 
-  - The follow commands are available:
+  - The following functionalities are available in the user service:
     - GET http://localhost:3000/users/ - to Get all users
     - POST http://localhost:3000/users/ with the content: {name: 'simple name', email: 'bla@email.com'} to create a user
     - PUT http://localhost:3000/users/:name to update an user
