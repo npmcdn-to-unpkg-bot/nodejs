@@ -5,9 +5,9 @@ The home of my nodejs poc projects
 * hello-nodejs
   - A simple REST application using **expressjs** and **mocha + chai** frameworks to help the unit tests creation.
 
-  - To resolve the project dependencies, run 'npm install'.
-  - 'npm test' to run the unit tests.
-  - 'npm start' to start the API.
+  - To resolve the project dependencies, run ```npm install```.
+  - ```npm test``` to run the unit tests.
+  - ```npm start``` to start the API.
 
   - After the start command, an user REST service with a "in memory database" can be found at the port 3000:
 
